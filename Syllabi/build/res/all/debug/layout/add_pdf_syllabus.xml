@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+    <EditText
+            android:id="@+id/editText1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="18dp"
+            android:ems="10"
+            android:hint="@string/enter_name" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+            android:id="@+id/getFile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editText1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="18dp"
+            android:text="@string/get_file" >
+    </Button>
+
+    <Space
+            android:layout_width="20px"
+            android:layout_height="20px"
+            android:layout_below="@+id/getFile"
+            android:layout_centerHorizontal="true"/>
+</RelativeLayout><!-- From: file:/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/layout/add_pdf_syllabus.xml -->

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values-v11/styles.xml -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style>
+    <!-- From: file:/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values-v11/styles_wheatoncomponents.xml -->
+    <style name="Buttonwheatoncomponents" parent="android:Widget.Holo.Light.Button">
+        <item name="android:background">@drawable/btn_default_holo_light</item>
+    </style>
+
+    <style name="ImageButtonwheatoncomponents" parent="android:Widget.Holo.Light.ImageButton">
+        <item name="android:background">@drawable/btn_default_holo_light</item>
+    </style>
+    <!-- From: file:/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values-v11/themes_wheatoncomponents.xml -->
+    <style name="wheatoncomponents" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:editTextBackground">@drawable/edit_text_holo_light</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/btn_check_holo_light</item>
+        <item name="android:buttonStyle">@style/Buttonwheatoncomponents</item>
+        <item name="android:imageButtonStyle">@style/ImageButtonwheatoncomponents</item>
+        <item name="android:listChoiceBackgroundIndicator">@drawable/list_selector_holo_light</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/activated_background_holo_light</item>
+        <item name="android:fastScrollThumbDrawable">@drawable/fastscroll_thumb_holo</item>
+    </style>
+
+</resources>

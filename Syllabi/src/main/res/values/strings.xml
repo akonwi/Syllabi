@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Syllabi</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1"></string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_add">Add</string>
+    <string name="get_file">Get File</string>
+    <string name="enter_name">Enter class name</string>
+    <string name="new_syllabus_title">New Syllabus</string>
+    <string name="save">Save</string><string name="enter_url">Copy and paste url here</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

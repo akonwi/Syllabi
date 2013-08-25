@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/add"
+          android:icon="@drawable/ic_action_add"
+          android:title="@string/action_add"
+          android:showAsAction="ifRoom|withText"/>
+    <item android:id="@+id/delete"
+          android:icon="@drawable/ic_action_delete"
+          android:title="Delete"
+          android:showAsAction="ifRoom|withText"/>
+</menu>
+<!-- From: file:/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/menu/main.xml -->

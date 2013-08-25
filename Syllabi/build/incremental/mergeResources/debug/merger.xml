@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res" >
+            <file
+                name="ab_background_textured_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/ab_background_textured_wheaton.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="activated_background_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/activated_background_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_cab_done_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/btn_cab_done_wheaton.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_check_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/btn_check_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_default_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/btn_default_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="edit_text_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/edit_text_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="fastscroll_thumb_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/fastscroll_thumb_holo.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="item_background_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/item_background_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_selector_background_transition_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/list_selector_background_transition_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_selector_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/list_selector_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pressed_background_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/pressed_background_wheaton.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="progress_horizontal_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/progress_horizontal_wheaton.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selectable_background_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/selectable_background_wheaton.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="spinner_background_ab_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/spinner_background_ab_wheaton.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tab_indicator_ab_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable/tab_indicator_ab_wheaton.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ab_bottom_solid_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/ab_bottom_solid_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ab_solid_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/ab_solid_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ab_stacked_solid_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/ab_stacked_solid_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ab_texture_tile_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/ab_texture_tile_wheaton.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ab_transparent_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/ab_transparent_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_cab_done_default_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_cab_done_default_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_cab_done_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_cab_done_focused_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_cab_done_pressed_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_cab_done_pressed_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_disabled_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_check_off_disabled_focused_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_check_off_disabled_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_check_off_focused_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_check_off_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_pressed_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_check_off_pressed_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_disabled_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_check_on_disabled_focused_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_check_on_disabled_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_check_on_focused_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_check_on_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_pressed_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_check_on_pressed_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_disabled_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_default_disabled_focused_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_default_disabled_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_default_focused_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_default_normal_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_pressed_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/btn_default_pressed_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="cab_background_bottom_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/cab_background_bottom_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="cab_background_top_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/cab_background_top_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fastscroll_thumb_default_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/fastscroll_thumb_default_holo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fastscroll_thumb_pressed_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/fastscroll_thumb_pressed_holo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_add"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/ic_action_add.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_delete"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/ic_action_delete.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_edit"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/ic_action_edit.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_next"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/ic_next.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_activated_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/list_activated_holo.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_focused_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/list_focused_holo.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/list_focused_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_longpressed_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/list_longpressed_holo.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_pressed_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/list_pressed_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_selector_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/list_selector_disabled_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="menu_dropdown_panel_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/menu_dropdown_panel_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="progress_bg_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/progress_bg_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="progress_primary_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/progress_primary_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="progress_secondary_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/progress_secondary_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_default_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/spinner_ab_default_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_disabled_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/spinner_ab_disabled_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/spinner_ab_focused_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_pressed_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/spinner_ab_pressed_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/tab_selected_focused_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_pressed_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/tab_selected_pressed_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/tab_selected_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/tab_unselected_focused_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_pressed_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/tab_unselected_pressed_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/tab_unselected_wheaton.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="textfield_activated_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/textfield_activated_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="textfield_default_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/textfield_default_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="textfield_disabled_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/textfield_disabled_focused_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="textfield_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/textfield_disabled_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="textfield_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-hdpi/textfield_focused_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ab_bottom_solid_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/ab_bottom_solid_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ab_solid_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/ab_solid_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ab_stacked_solid_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/ab_stacked_solid_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ab_texture_tile_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/ab_texture_tile_wheaton.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ab_transparent_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/ab_transparent_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_cab_done_default_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_cab_done_default_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_cab_done_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_cab_done_focused_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_cab_done_pressed_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_cab_done_pressed_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_disabled_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_check_off_disabled_focused_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_check_off_disabled_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_check_off_focused_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_check_off_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_pressed_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_check_off_pressed_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_disabled_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_check_on_disabled_focused_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_check_on_disabled_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_check_on_focused_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_check_on_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_pressed_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_check_on_pressed_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_disabled_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_default_disabled_focused_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_default_disabled_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_default_focused_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_default_normal_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_pressed_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/btn_default_pressed_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="cab_background_bottom_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/cab_background_bottom_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="cab_background_top_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/cab_background_top_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fastscroll_thumb_default_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/fastscroll_thumb_default_holo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fastscroll_thumb_pressed_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/fastscroll_thumb_pressed_holo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_activated_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/list_activated_holo.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_focused_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/list_focused_holo.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/list_focused_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_longpressed_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/list_longpressed_holo.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_pressed_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/list_pressed_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_selector_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/list_selector_disabled_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="menu_dropdown_panel_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/menu_dropdown_panel_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="progress_bg_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/progress_bg_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="progress_primary_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/progress_primary_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="progress_secondary_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/progress_secondary_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_default_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/spinner_ab_default_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_disabled_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/spinner_ab_disabled_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/spinner_ab_focused_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_pressed_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/spinner_ab_pressed_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/tab_selected_focused_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_pressed_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/tab_selected_pressed_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/tab_selected_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/tab_unselected_focused_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_pressed_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/tab_unselected_pressed_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/tab_unselected_wheaton.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="textfield_activated_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/textfield_activated_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="textfield_default_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/textfield_default_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="textfield_disabled_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/textfield_disabled_focused_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="textfield_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/textfield_disabled_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="textfield_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-mdpi/textfield_focused_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ab_bottom_solid_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/ab_bottom_solid_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ab_solid_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/ab_solid_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ab_stacked_solid_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/ab_stacked_solid_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ab_texture_tile_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/ab_texture_tile_wheaton.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ab_transparent_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/ab_transparent_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_cab_done_default_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_cab_done_default_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_cab_done_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_cab_done_focused_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_cab_done_pressed_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_cab_done_pressed_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_disabled_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_check_off_disabled_focused_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_check_off_disabled_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_check_off_focused_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_check_off_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_pressed_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_check_off_pressed_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_disabled_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_check_on_disabled_focused_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_check_on_disabled_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_check_on_focused_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_check_on_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_pressed_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_check_on_pressed_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_default_disabled_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_default_disabled_focused_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_default_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_default_disabled_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_default_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_default_focused_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_default_normal_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_default_pressed_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/btn_default_pressed_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="cab_background_bottom_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/cab_background_bottom_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="cab_background_top_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/cab_background_top_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="fastscroll_thumb_default_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/fastscroll_thumb_default_holo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="fastscroll_thumb_pressed_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/fastscroll_thumb_pressed_holo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_add"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/ic_action_add.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_delete"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/ic_action_delete.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_edit"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/ic_action_edit.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_next"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/ic_next.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="list_activated_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/list_activated_holo.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="list_focused_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/list_focused_holo.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="list_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/list_focused_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="list_longpressed_holo"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/list_longpressed_holo.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="list_pressed_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/list_pressed_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="list_selector_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/list_selector_disabled_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="menu_dropdown_panel_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/menu_dropdown_panel_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="progress_bg_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/progress_bg_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="progress_primary_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/progress_primary_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="progress_secondary_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/progress_secondary_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_default_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/spinner_ab_default_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_disabled_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/spinner_ab_disabled_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/spinner_ab_focused_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_pressed_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/spinner_ab_pressed_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/tab_selected_focused_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_pressed_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/tab_selected_pressed_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/tab_selected_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_focused_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/tab_unselected_focused_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_pressed_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/tab_unselected_pressed_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_wheaton"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/tab_unselected_wheaton.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="textfield_activated_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/textfield_activated_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="textfield_default_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/textfield_default_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="textfield_disabled_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/textfield_disabled_focused_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="textfield_disabled_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/textfield_disabled_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="textfield_focused_holo_light"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/drawable-xhdpi/textfield_focused_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="activity_list_syllabi"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/layout/activity_list_syllabi.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="add_pdf_syllabus"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/layout/add_pdf_syllabus.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="add_web_syllabus"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/layout/add_web_syllabus.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="delete_syllabi"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/layout/delete_syllabi.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_pagenumber"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/layout/dialog_pagenumber.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_main_dummy"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/layout/fragment_main_dummy.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pdf_file_password"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/layout/pdf_file_password.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="row_layout"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/layout/row_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="webview"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/layout/webview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="context_menu"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/menu/context_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="float_context"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/menu/float_context.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values/colors_wheaton.xml"
+                qualifiers="" >
+                <color name="pressed_wheaton" >#CC33B5E5
+                </color>
+            </file>
+            <file
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values/dialog.xml"
+                qualifiers="" >
+                <array name="syllabusType" >
+                    <item>
+Web
+                    </item>
+                    <item>
+Pdf
+                    </item>
+                </array>
+            </file>
+            <file
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="cancel" >Cancel
+                </string>
+                <string name="get_file" >Get File
+                </string>
+                <string name="title_section1" ></string>
+                <string name="new_syllabus_title" >New Syllabus
+                </string>
+                <string name="title_section3" >Section 3
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_section2" >Section 2
+                </string>
+                <string name="enter_url" >Copy and paste url here
+                </string>
+                <string name="save" >Save
+                </string>
+                <string name="enter_name" >Enter class name
+                </string>
+                <string name="app_name" >Syllabi
+                </string>
+                <string name="action_add" >Add
+                </string>
+            </file>
+            <file
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values/styles_wheaton.xml"
+                qualifiers="" >
+
+                <style
+                    name="Theme.Wheaton.Widget"
+                    parent="@android:style/Theme.Holo" >
+                    <item name="android:popupMenuStyle">
+@style/PopupMenu.Wheaton
+                    </item>
+                    <item name="android:dropDownListViewStyle">
+@style/DropDownListView.Wheaton
+                    </item>
+                </style>
+
+                <style
+                    name="ActionBar.Solid.Wheaton"
+                    parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse" >
+                    <item name="android:background">
+@drawable/ab_solid_wheaton
+                    </item>
+                    <item name="android:backgroundStacked">
+@drawable/ab_stacked_solid_wheaton
+                    </item>
+                    <item name="android:backgroundSplit">
+@drawable/ab_bottom_solid_wheaton
+                    </item>
+                    <item name="android:progressBarStyle">
+@style/ProgressBar.Wheaton
+                    </item>
+                </style>
+
+                <style
+                    name="DropDownNav.Wheaton"
+                    parent="@android:style/Widget.Holo.Spinner" >
+                    <item name="android:background">
+@drawable/spinner_background_ab_wheaton
+                    </item>
+                    <item name="android:popupBackground">
+@drawable/menu_dropdown_panel_wheaton
+                    </item>
+                    <item name="android:dropDownSelector">
+@drawable/selectable_background_wheaton
+                    </item>
+                </style>
+
+                <style
+                    name="ActionBarTabStyle.Wheaton"
+                    parent="@android:style/Widget.Holo.ActionBar.TabView" >
+                    <item name="android:background">
+@drawable/tab_indicator_ab_wheaton
+                    </item>
+                </style>
+
+                <style
+                    name="DropDownListView.Wheaton"
+                    parent="@android:style/Widget.Holo.ListView.DropDown" >
+                    <item name="android:listSelector">
+@drawable/selectable_background_wheaton
+                    </item>
+                </style>
+
+                <style
+                    name="ActionBar.Transparent.Wheaton"
+                    parent="@android:style/Widget.Holo.ActionBar" >
+                    <item name="android:background">
+@drawable/ab_transparent_wheaton
+                    </item>
+                    <item name="android:progressBarStyle">
+@style/ProgressBar.Wheaton
+                    </item>
+                </style>
+
+                <style
+                    name="PopupMenu.Wheaton"
+                    parent="@android:style/Widget.Holo.ListPopupWindow" >
+                    <item name="android:popupBackground">
+@drawable/menu_dropdown_panel_wheaton
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.Wheaton"
+                    parent="style/wheatoncomponents" >
+                    <item name="android:actionBarItemBackground">
+@drawable/selectable_background_wheaton
+                    </item>
+                    <item name="android:popupMenuStyle">
+@style/PopupMenu.Wheaton
+                    </item>
+                    <item name="android:dropDownListViewStyle">
+@style/DropDownListView.Wheaton
+                    </item>
+                    <item name="android:actionBarTabStyle">
+@style/ActionBarTabStyle.Wheaton
+                    </item>
+                    <item name="android:actionDropDownStyle">
+@style/DropDownNav.Wheaton
+                    </item>
+                    <item name="android:actionBarStyle">
+@style/ActionBar.Solid.Wheaton
+                    </item>
+                    <item name="android:actionModeBackground">
+@drawable/cab_background_top_wheaton
+                    </item>
+                    <item name="android:actionModeSplitBackground">
+@drawable/cab_background_bottom_wheaton
+                    </item>
+                    <item name="android:actionModeCloseButtonStyle">
+@style/ActionButton.CloseMode.Wheaton
+                    </item>
+
+                    <!-- Light.DarkActionBar specific -->
+                    <item name="android:actionBarWidgetTheme">
+@style/Theme.Wheaton.Widget
+                    </item>
+                </style>
+
+                <style
+                    name="ActionButton.CloseMode.Wheaton"
+                    parent="@android:style/Widget.Holo.ActionButton.CloseMode" >
+                    <item name="android:background">
+@drawable/btn_cab_done_wheaton
+                    </item>
+                </style>
+
+                <style
+                    name="ProgressBar.Wheaton"
+                    parent="@android:style/Widget.Holo.ProgressBar.Horizontal" >
+                    <item name="android:progressDrawable">
+@drawable/progress_horizontal_wheaton
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values/styles_wheatoncomponents.xml"
+                qualifiers="" >
+
+                <style
+                    name="CheckBoxwheatoncomponents"
+                    parent="android:Widget.CompoundButton.CheckBox" >
+                    <item name="android:button">
+@drawable/btn_check_holo_light
+                    </item>
+                </style>
+
+                <style
+                    name="ListViewwheatoncomponents"
+                    parent="android:Widget.ListView" >
+                    <item name="android:listSelector">
+@drawable/list_selector_holo_light
+                    </item>
+                </style>
+
+                <style
+                    name="SpinnerItemwheatoncomponents"
+                    parent="android:TextAppearance.Widget.TextView.SpinnerItem" >
+                    <item name="android:textColor">
+#000000
+                    </item>
+                </style>
+
+                <style
+                    name="Buttonwheatoncomponents"
+                    parent="android:Widget.Button" >
+                    <item name="android:background">
+@drawable/btn_default_holo_light
+                    </item>
+                    <item name="android:minHeight">
+48dip
+                    </item>
+                    <item name="android:minWidth">
+64dip
+                    </item>
+                    <item name="android:textColor">
+#000000
+                    </item>
+                </style>
+
+                <style
+                    name="ImageButtonwheatoncomponents"
+                    parent="android:Widget.ImageButton" >
+                    <item name="android:background">
+@drawable/btn_default_holo_light
+                    </item>
+                </style>
+
+                <style
+                    name="EditTextwheatoncomponents"
+                    parent="android:Widget.EditText" >
+                    <item name="android:background">
+@drawable/edit_text_holo_light
+                    </item>
+                    <item name="android:textColor">
+#000000
+                    </item>
+                </style>
+
+                <style
+                    name="ListViewwheatoncomponents.White"
+                    parent="android:Widget.ListView.White" >
+                    <item name="android:listSelector">
+@drawable/list_selector_holo_light
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values/themes_wheatoncomponents.xml"
+                qualifiers="" >
+
+                <style
+                    name="wheatoncomponents"
+                    parent="android:Theme.Light" >
+                    <item name="android:editTextStyle">
+@style/EditTextwheatoncomponents
+                    </item>
+                    <item name="android:checkboxStyle">
+@style/CheckBoxwheatoncomponents
+                    </item>
+                    <item name="android:buttonStyle">
+@style/Buttonwheatoncomponents
+                    </item>
+                    <item name="android:imageButtonStyle">
+@style/ImageButtonwheatoncomponents
+                    </item>
+                    <item name="android:listViewStyle">
+@style/ListViewwheatoncomponents
+                    </item>
+                    <item name="android:listViewWhiteStyle">
+@style/ListViewwheatoncomponents.White
+                    </item>
+                    <item name="android:spinnerItemStyle">
+@style/SpinnerItemwheatoncomponents
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values-v11/styles_wheatoncomponents.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="ImageButtonwheatoncomponents"
+                    parent="android:Widget.Holo.Light.ImageButton" >
+                    <item name="android:background">
+@drawable/btn_default_holo_light
+                    </item>
+                </style>
+
+                <style
+                    name="Buttonwheatoncomponents"
+                    parent="android:Widget.Holo.Light.Button" >
+                    <item name="android:background">
+@drawable/btn_default_holo_light
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values-v11/themes_wheatoncomponents.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="wheatoncomponents"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+                    <item name="android:editTextBackground">
+@drawable/edit_text_holo_light
+                    </item>
+                    <item name="android:listChoiceIndicatorMultiple">
+@drawable/btn_check_holo_light
+                    </item>
+                    <item name="android:buttonStyle">
+@style/Buttonwheatoncomponents
+                    </item>
+                    <item name="android:imageButtonStyle">
+@style/ImageButtonwheatoncomponents
+                    </item>
+                    <item name="android:listChoiceBackgroundIndicator">
+@drawable/list_selector_holo_light
+                    </item>
+                    <item name="android:activatedBackgroundIndicator">
+@drawable/activated_background_holo_light
+                    </item>
+                    <item name="android:fastScrollThumbDrawable">
+@drawable/fastscroll_thumb_holo
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/akonwi/AndroidStudioProjects/SyllabiProject/Syllabi/src/debug/res" />
+    </dataSet>
+
+</merger>

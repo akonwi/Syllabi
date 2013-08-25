@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="wheatoncomponents" parent="android:Theme.Light">
+
+    <item name="android:editTextStyle">@style/EditTextwheatoncomponents</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxwheatoncomponents</item>
+
+    <item name="android:buttonStyle">@style/Buttonwheatoncomponents</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonwheatoncomponents</item>
+
+    <item name="android:listViewStyle">@style/ListViewwheatoncomponents</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewwheatoncomponents.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemwheatoncomponents</item>
+
+  </style>
+
+</resources>
